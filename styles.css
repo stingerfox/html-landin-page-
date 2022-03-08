@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: #0A0D25;
+    color: aliceblue;
+    width: 100%;
+    padding: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+
+}
+#link li{
+    display: inline;
+    padding: 10px;
+    
+
+}
+.primera{
+
+    color: black;
+    width: 100%;
+    padding: 70px;
+  
+}
+.boton{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+    border: 1px;
+    height: 40px;
+    width: 60px;
+     
+}   
+
+.imagen{
+    display: inline;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;    
+}
+
+
